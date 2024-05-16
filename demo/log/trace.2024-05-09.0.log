@@ -1,0 +1,359 @@
+2024-05-09 20:59:37.206 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 23136 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 20:59:37.209 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 20:59:37.779 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 20:59:37.788 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 20:59:37.790 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 20:59:37.791 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 20:59:37.826 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 20:59:37.827 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 587 ms
+2024-05-09 20:59:38.054 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 20:59:38.066 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 20:59:38.071 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 1.226 seconds (process running for 1.662)
+2024-05-09 20:59:38.072 INFO  com.javaproject.demo.config.DemoApplication              :17   [32m                  [0;39m 启动成功
+2024-05-09 20:59:38.073 INFO  com.javaproject.demo.config.DemoApplication              :18   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 20:59:40.056 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 20:59:40.056 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 20:59:40.057 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 1 ms
+2024-05-09 21:00:37.421 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 23772 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:00:37.423 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:00:37.893 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:00:37.901 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:00:37.903 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:00:37.903 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:00:37.931 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:00:37.933 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 485 ms
+2024-05-09 21:00:38.115 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:00:38.126 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:00:38.130 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.986 seconds (process running for 1.311)
+2024-05-09 21:00:38.132 INFO  com.javaproject.demo.config.DemoApplication              :17   [32m                  [0;39m 启动成功
+2024-05-09 21:00:38.133 INFO  com.javaproject.demo.config.DemoApplication              :18   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:00:40.653 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 21:00:40.653 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 21:00:40.654 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 1 ms
+2024-05-09 21:01:47.261 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 23996 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:01:47.262 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:01:47.719 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:01:47.725 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:01:47.726 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:01:47.726 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:01:47.756 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:01:47.757 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 470 ms
+2024-05-09 21:01:47.922 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:01:47.932 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:01:47.936 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.943 seconds (process running for 1.265)
+2024-05-09 21:01:47.937 INFO  com.javaproject.demo.config.DemoApplication              :17   [32m                  [0;39m 启动成功
+2024-05-09 21:01:47.938 INFO  com.javaproject.demo.config.DemoApplication              :18   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:01:51.015 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 21:01:51.015 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 21:01:51.016 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 1 ms
+2024-05-09 21:10:03.708 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 20000 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:10:03.709 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:10:04.178 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:10:04.185 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:10:04.187 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:10:04.187 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:10:04.217 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:10:04.217 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 484 ms
+2024-05-09 21:10:04.397 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:10:04.407 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:10:04.412 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.978 seconds (process running for 1.288)
+2024-05-09 21:10:04.413 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:10:04.414 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:10:10.034 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 21:10:10.035 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 21:10:10.035 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 0 ms
+2024-05-09 21:17:49.945 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 10072 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:17:49.946 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:17:50.410 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:17:50.417 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:17:50.418 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:17:50.419 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:17:50.446 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:17:50.446 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 475 ms
+2024-05-09 21:17:50.623 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:17:50.633 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:17:50.637 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.971 seconds (process running for 1.296)
+2024-05-09 21:17:50.638 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:17:50.639 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:17:58.710 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 21:17:58.710 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 21:17:58.711 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 1 ms
+2024-05-09 21:23:27.738 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 23428 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:23:27.739 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:23:28.179 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:23:28.185 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:23:28.186 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:23:28.187 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:23:28.217 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:23:28.217 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 454 ms
+2024-05-09 21:23:28.389 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:23:28.399 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:23:28.403 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.93 seconds (process running for 1.239)
+2024-05-09 21:23:28.405 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:23:28.406 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:23:31.877 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 21:23:31.877 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 21:23:31.878 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 1 ms
+2024-05-09 21:23:31.889 WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver :247  [32m                  [0;39m Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-05-09 21:24:01.479 WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver :247  [32m                  [0;39m Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-05-09 21:24:25.837 WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver :247  [32m                  [0;39m Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-05-09 21:24:28.043 WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver :247  [32m                  [0;39m Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-05-09 21:24:29.018 WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver :247  [32m                  [0;39m Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-05-09 21:28:59.205 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 5652 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:28:59.206 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:28:59.648 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:28:59.656 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:28:59.658 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:28:59.659 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:28:59.688 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:28:59.689 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 457 ms
+2024-05-09 21:28:59.860 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:28:59.870 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:28:59.874 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.946 seconds (process running for 1.249)
+2024-05-09 21:28:59.875 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:28:59.876 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:29:06.122 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 21:29:06.122 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 21:29:06.123 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 1 ms
+2024-05-09 21:34:32.132 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 22532 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:34:32.133 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:34:32.599 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8081 (http)
+2024-05-09 21:34:32.605 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2024-05-09 21:34:32.606 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:34:32.606 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:34:32.633 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:34:32.634 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 475 ms
+2024-05-09 21:34:32.809 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2024-05-09 21:34:32.819 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8081 (http) with context path ''
+2024-05-09 21:34:32.823 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.962 seconds (process running for 1.277)
+2024-05-09 21:34:32.825 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:34:32.826 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8081
+2024-05-09 21:35:53.115 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 376 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:35:53.117 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:35:53.578 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8081 (http)
+2024-05-09 21:35:53.584 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2024-05-09 21:35:53.585 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:35:53.586 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:35:53.612 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:35:53.612 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 469 ms
+2024-05-09 21:35:53.790 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2024-05-09 21:35:53.801 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8081 (http) with context path ''
+2024-05-09 21:35:53.805 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.989 seconds (process running for 1.314)
+2024-05-09 21:35:53.808 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:35:53.808 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8081
+2024-05-09 21:36:03.656 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 23068 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:36:03.657 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:36:04.113 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:36:04.121 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:36:04.122 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:36:04.122 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:36:04.148 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:36:04.148 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 465 ms
+2024-05-09 21:36:04.312 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:36:04.322 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:36:04.326 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.968 seconds (process running for 1.286)
+2024-05-09 21:36:04.328 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:36:04.328 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:36:11.640 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 16080 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:36:11.642 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:36:12.118 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8082 (http)
+2024-05-09 21:36:12.126 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8082"]
+2024-05-09 21:36:12.127 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:36:12.127 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:36:12.153 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:36:12.154 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 488 ms
+2024-05-09 21:36:12.333 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8082"]
+2024-05-09 21:36:12.343 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8082 (http) with context path ''
+2024-05-09 21:36:12.347 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.996 seconds (process running for 1.317)
+2024-05-09 21:36:12.349 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:36:12.349 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8082
+2024-05-09 21:37:10.122 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 24476 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:37:10.124 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:37:10.578 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8081 (http)
+2024-05-09 21:37:10.584 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2024-05-09 21:37:10.585 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:37:10.585 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:37:10.611 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:37:10.611 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 461 ms
+2024-05-09 21:37:10.793 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2024-05-09 21:37:10.803 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8081 (http) with context path ''
+2024-05-09 21:37:10.808 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.978 seconds (process running for 1.336)
+2024-05-09 21:37:10.810 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:37:10.810 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8081
+2024-05-09 21:43:39.762 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 25400 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:43:39.765 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:43:40.215 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8081 (http)
+2024-05-09 21:43:40.221 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2024-05-09 21:43:40.223 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:43:40.223 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:43:40.250 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:43:40.250 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 460 ms
+2024-05-09 21:43:40.421 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2024-05-09 21:43:40.431 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8081 (http) with context path ''
+2024-05-09 21:43:40.436 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.956 seconds (process running for 1.253)
+2024-05-09 21:43:40.437 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:43:40.437 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8081
+2024-05-09 21:44:33.295 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 23792 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:44:33.297 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:44:33.728 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:44:33.734 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:44:33.736 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:44:33.736 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:44:33.766 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:44:33.767 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 446 ms
+2024-05-09 21:44:33.931 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:44:33.941 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:44:33.945 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.943 seconds (process running for 1.244)
+2024-05-09 21:44:33.947 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:44:33.948 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:44:38.038 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 21:44:38.038 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 21:44:38.039 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 1 ms
+2024-05-09 21:47:15.293 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 16000 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:47:15.294 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:47:15.728 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:47:15.735 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:47:15.737 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:47:15.737 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:47:15.764 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:47:15.764 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 445 ms
+2024-05-09 21:47:15.931 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:47:15.941 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:47:15.945 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.937 seconds (process running for 1.253)
+2024-05-09 21:47:15.947 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:47:15.947 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:47:19.038 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 21:47:19.038 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 21:47:19.039 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 1 ms
+2024-05-09 21:55:37.336 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 25316 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:55:37.338 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:55:37.366 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :252  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-09 21:55:37.366 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :252  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-09 21:55:37.849 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:55:37.856 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:55:37.857 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:55:37.858 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:55:37.881 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:55:37.882 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 515 ms
+2024-05-09 21:55:38.074 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-05-09 21:55:38.084 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:55:38.095 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:55:38.100 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 1.046 seconds (process running for 1.463)
+2024-05-09 21:55:38.102 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:55:38.103 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:55:43.752 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 21:55:43.752 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 21:55:43.753 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 0 ms
+2024-05-09 21:56:39.105 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 20552 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:56:39.107 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:56:39.134 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :252  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-09 21:56:39.135 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :252  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-09 21:56:39.661 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:56:39.667 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:56:39.668 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:56:39.669 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:56:39.695 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:56:39.696 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 561 ms
+2024-05-09 21:56:39.900 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-05-09 21:56:39.911 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:56:39.923 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:56:39.927 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 1.158 seconds (process running for 1.562)
+2024-05-09 21:56:39.929 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:56:39.930 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:56:41.878 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 21:56:41.878 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 21:56:41.880 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 2 ms
+2024-05-09 21:57:16.409 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-09 21:57:16.411 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:57:16.451 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 20552 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:57:16.452 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:57:16.535 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:57:16.535 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:57:16.536 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:57:16.536 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:57:16.542 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:57:16.543 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 90 ms
+2024-05-09 21:57:16.577 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-05-09 21:57:16.580 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:57:16.582 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:57:16.584 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.15 seconds (process running for 38.219)
+2024-05-09 21:57:16.584 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-05-09 21:57:16.585 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:57:16.585 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:57:58.391 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 21:57:58.392 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 21:57:58.392 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 0 ms
+2024-05-09 21:58:31.735 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-09 21:58:31.736 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:58:31.783 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 20552 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:58:31.783 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:58:31.855 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:58:31.856 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:58:31.856 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:58:31.856 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:58:31.864 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:58:31.864 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 79 ms
+2024-05-09 21:58:31.892 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-05-09 21:58:31.895 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:58:31.897 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:58:31.898 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.132 seconds (process running for 113.533)
+2024-05-09 21:58:31.898 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-05-09 21:58:31.900 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:58:31.900 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:58:59.345 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-09 21:58:59.346 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:58:59.411 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 20552 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:58:59.411 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:58:59.478 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:58:59.479 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:58:59.479 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:58:59.479 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:58:59.486 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:58:59.486 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 74 ms
+2024-05-09 21:58:59.512 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-05-09 21:58:59.514 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:58:59.516 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:58:59.517 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.129 seconds (process running for 141.152)
+2024-05-09 21:58:59.518 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-05-09 21:58:59.518 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:58:59.518 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:59:06.645 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 21:59:06.645 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 21:59:06.646 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 1 ms
+2024-05-09 21:59:21.958 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-09 21:59:21.959 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:59:22.013 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 20552 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 21:59:22.013 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 21:59:22.079 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 21:59:22.080 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:59:22.080 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 21:59:22.080 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 21:59:22.087 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 21:59:22.088 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 74 ms
+2024-05-09 21:59:22.114 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-05-09 21:59:22.116 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 21:59:22.118 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 21:59:22.119 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.123 seconds (process running for 163.754)
+2024-05-09 21:59:22.119 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-05-09 21:59:22.120 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 21:59:22.120 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080
+2024-05-09 21:59:27.382 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 21:59:27.383 INFO  org.springframework.web.servlet.DispatcherServlet :532  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-05-09 21:59:27.383 INFO  org.springframework.web.servlet.DispatcherServlet :554  [32m                  [0;39m Completed initialization in 0 ms
+2024-05-09 22:00:00.592 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-09 22:00:00.593 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8080"]
+2024-05-09 22:00:00.644 INFO  com.javaproject.demo.config.DemoApplication              :50   [32m                  [0;39m Starting DemoApplication using Java 22.0.1 with PID 20552 (D:\project\zwm\demo\target\classes started by Administrator in D:\project\zwm\demo)
+2024-05-09 22:00:00.644 INFO  com.javaproject.demo.config.DemoApplication              :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-09 22:00:00.704 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :109  [32m                  [0;39m Tomcat initialized with port 8080 (http)
+2024-05-09 22:00:00.705 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-09 22:00:00.705 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-05-09 22:00:00.705 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 22:00:00.712 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-05-09 22:00:00.712 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :296  [32m                  [0;39m Root WebApplicationContext: initialization completed in 67 ms
+2024-05-09 22:00:00.735 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-05-09 22:00:00.737 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2024-05-09 22:00:00.739 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :241  [32m                  [0;39m Tomcat started on port 8080 (http) with context path ''
+2024-05-09 22:00:00.740 INFO  com.javaproject.demo.config.DemoApplication              :56   [32m                  [0;39m Started DemoApplication in 0.11 seconds (process running for 202.375)
+2024-05-09 22:00:00.741 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-05-09 22:00:00.741 INFO  com.javaproject.demo.config.DemoApplication              :19   [32m                  [0;39m 启动成功
+2024-05-09 22:00:00.741 INFO  com.javaproject.demo.config.DemoApplication              :20   [32m                  [0;39m 地址：	http://127.0.0.1:8080

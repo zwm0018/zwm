@@ -1,0 +1,7 @@
+2024-05-15 23:29:47.625 INFO  com.javaproject.demo.DemoApplicationTests         :50   [32m                  [0;39m Starting DemoApplicationTests using Java 22.0.1 with PID 23832 (started by Administrator in D:\project\zwm\demo)
+2024-05-15 23:29:47.627 INFO  com.javaproject.demo.DemoApplicationTests         :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-15 23:29:48.953 INFO  com.javaproject.demo.DemoApplicationTests         :56   [32m                  [0;39m Started DemoApplicationTests in 1.732 seconds (process running for 2.414)
+2024-05-15 23:38:14.481 INFO  com.javaproject.demo.DemoApplicationTests         :50   [32m                  [0;39m Starting DemoApplicationTests using Java 22.0.1 with PID 10460 (started by Administrator in D:\project\zwm\demo)
+2024-05-15 23:38:14.483 INFO  com.javaproject.demo.DemoApplicationTests         :654  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-05-15 23:38:15.039 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.javaproject.demo]' package. Please check your configuration.
+2024-05-15 23:38:15.861 INFO  com.javaproject.demo.DemoApplicationTests         :56   [32m                  [0;39m Started DemoApplicationTests in 1.737 seconds (process running for 2.379)
