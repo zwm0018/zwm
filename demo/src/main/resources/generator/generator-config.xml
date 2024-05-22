@@ -33,7 +33,8 @@
                              type="XMLMAPPER"/>
 
         <!-- 要生成代码的数据表，及domain实体类名字 -->
-        <table tableName="demo" domainObjectName="Demo"/>
+<!--        <table tableName="demo" domainObjectName="Demo"/>-->
+        <table tableName="ebook" domainObjectName="Ebook"/>
         <!-- 可以继续添加其它数据表 -->
 
     </context>
