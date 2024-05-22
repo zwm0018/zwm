@@ -1,6 +1,7 @@
 package com.javaproject.demo.controller;
 
 import com.javaproject.demo.domain.Ebook;
+import com.javaproject.demo.resp.CommonResp;
 import jakarta.annotation.Resource;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -37,7 +38,10 @@ public class EbookController {
     }
 
     @GetMapping("/list")
-    public List<Ebook> list() {
-        return EbookService.list();
+    public CommonResp list() {
+        CommonResp<List<Ebook>> resp = new CommonResp<>();
+        List<Ebook> list =  EbookService.list();
+        resp.setContent(list);
+        return resp;
     }
 }
