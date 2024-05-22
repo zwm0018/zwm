@@ -3,9 +3,12 @@ package com.javaproject.demo.mapper;
 import com.javaproject.demo.domain.Ebook;
 import com.javaproject.demo.domain.EbookExample;
 import java.util.List;
+
 import org.apache.ibatis.annotations.Param;
 
 public interface EbookMapper {
+    public List<Ebook> list();
+
     long countByExample(EbookExample example);
 
     int deleteByExample(EbookExample example);
