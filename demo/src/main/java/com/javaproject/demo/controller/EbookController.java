@@ -1,7 +1,8 @@
 package com.javaproject.demo.controller;
 
-import com.javaproject.demo.domain.Ebook;
+import com.javaproject.demo.req.EbookReq;
 import com.javaproject.demo.resp.CommonResp;
+import com.javaproject.demo.resp.EbookResp;
 import jakarta.annotation.Resource;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -21,7 +22,7 @@ public class EbookController {
     private String EbookHello;
 
     @Resource
-    private EbookService EbookService;
+    private EbookService ebookService;
 
     /**
      *
@@ -38,9 +39,9 @@ public class EbookController {
     }
 
     @GetMapping("/list")
-    public CommonResp list() {
-        CommonResp<List<Ebook>> resp = new CommonResp<>();
-        List<Ebook> list =  EbookService.list();
+    public CommonResp list(EbookReq req) {
+        CommonResp<List<EbookResp>> resp = new CommonResp<>(); // 改
+        List<EbookResp> list = ebookService.list(req); // 改
         resp.setContent(list);
         return resp;
     }
